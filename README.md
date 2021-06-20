@@ -1,3 +1,17 @@
+Airbnb demo app created by react js.In this i have created home page ,search page and also there is date calendar functionality available.Used react hooks for state management.A little animation provided on hovering cards.
+
+home page
+
+![image](https://user-images.githubusercontent.com/34640475/122670098-c0f21400-d1dd-11eb-9827-1b8664d50170.png)
+
+date functionality
+
+![image](https://user-images.githubusercontent.com/34640475/122670108-dc5d1f00-d1dd-11eb-8bfb-ca07058e7779.png)
+
+search page 
+
+![image](https://user-images.githubusercontent.com/34640475/122670138-0adafa00-d1de-11eb-896d-a860ce5f6571.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
